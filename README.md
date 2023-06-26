@@ -1,4 +1,4 @@
-![maskguy]([https://media.tenor.com/3ItiA2urMygAAAAC/nerowo-fsociety.gif](https://media.tenor.com/vL3I2FfjVYwAAAAS/maskeliadam-korkun%C3%A7.gif))
+![maskguy](https://media.tenor.com/vL3I2FfjVYwAAAAS/maskeliadam-korkun%C3%A7.gif))
 
 
 # Quick-Osint
