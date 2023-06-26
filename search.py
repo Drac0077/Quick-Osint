@@ -12,7 +12,7 @@ art = '''
                                                                                                                                                                                                                                                                                                                                                        
                             DEVELOPED BY @DRAC0077. VERSION:1.0
 
-This tool generates fake data including first name, last name, date of birth, gender, and a plausible username.
+This tool generates a quick osint web-search on an individuals based on their name and their mail.
 '''
 print(art)
 
@@ -76,8 +76,8 @@ else:
     print("No specific website results found.")
 
 # Asking for more search results
-more_results = input("Do you want to fetch more search results? (yes/no): ")
-if more_results.lower() == "yes":
+more_results = input("Do you want to fetch more search results? (y/n): ")
+if more_results.lower() == "y":
     num_results = int(input("How many more results do you want to fetch? "))
     additional_results = google_search(target_name)
     additional_results = random.sample(additional_results, num_results)
